@@ -1,0 +1,337 @@
+# n=int(input("enter your number:"))
+
+# for i in range(1,n+1):
+#     for j in range(1,n+1):
+#         if i==1 or j==1 or i==n or j==n:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+    
+    
+# n=int(input("enter your number:"))
+# for i in range(1,n+1):
+#     for j in range(1,n+1):
+#         if( i==(n+1)/2 or j==(n+1)/2 ):
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+# n=int(input("enter your number:"))
+
+# for i in range(1,n+1):
+#     for j in range(1,n+1):
+#         if i==1 or i==(n+1)/2 or i==n:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+# n=int(input("enter your number:"))
+
+# for i in range(1,n+1):
+#     for j in range(1,n+1):
+#         if i==1 or j==1 or j==n or i==n or i==(n+1)/2 or j==(n+1)/2:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+    
+    
+# n=int(input("enter your number:"))
+
+# for i in range(1,n+1):
+#     for j in range(1,n+1):
+#         if i%2!=0 or j%2!=0:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+    
+    
+#alphabhets letters print
+
+######A###########
+# for i in range(1,5):
+#     for j in range(1,8):
+#         if i+j==5 or  j-i==3 or i==3 and i+j>4  and i+j<9:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+#alphabhets letters print
+
+########A#################
+# for i in range(1,5):
+#     for j in range(1,8):
+#         if i+j==5 or  j-i==3 or i==3 and i+j !=4 and i+j!=10 :
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+########B#############
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or j==1  or j==6 or i==3 or i==5:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+    
+
+
+######C####
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or j==1  or i==5:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+    
+    
+####D######
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or j==1  or j==6 or i==5:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+    
+    
+###E####
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or j==1   or i==5 or i==3:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+    
+    
+    
+######F####
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or j==1 or i==2:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+###G####
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or j==1 or i==5 or (j==6 and i+j<8) or (i==3 and i+j<5):
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+    
+##### H###
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or j==6 or i==3:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+#####I####
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or j==3 or i==5:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+####J#####
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or j==6 or i==5 or j==1!=i+j>3:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+####K####
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or i==3:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+    
+
+
+####L###
+####K####
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or i==5:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+####M####
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or j==6 or i==j!=i+j<=7 or i==2 and i+j==7 :
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+###N####
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or j==6 or i==j:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+###O###
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or i==1 or i==5 or j==6:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+###P##
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or i==1 or i==3 or i==2 and i+j==8:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+#####Q####
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or i==1 or i==5 or j==6:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+###R######
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or i==1 or i==3 or i==2 and i+j==8 or i==4 and i+j==6 or i==5 and i+j==8:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+###S####
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or i==3 or i==5 or i==2 and i+j==3 or i==4 and i+j==10:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+####T#####
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or j==3:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+####U####
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or i==5 or j==6:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+####V#######
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==5 and i+j==8:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+####W######
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 or j==6  or i==3 and i+j==7 or i==4 and  i+j==6 or i==4 and i+j==9:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+
+####X####
+
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==i  or i==1 and i+j==7  or i==2 and i+j==7 or i==4 and i+j==6 or i==5 and i+j==6:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+######Y########
+
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if j==1 :
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+
+
+#####Z########
+# for i in range(1,6):
+#     for j in range(1,7):
+#         if i==1 or i==5  or i==4 and i+j==6 or i==3 and i+j==6 or i==2 and  i+j==6:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
